@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About Mjumbe Poe
 headshot: /assets/img/headshot.webp
 permalink: /about
 ---
